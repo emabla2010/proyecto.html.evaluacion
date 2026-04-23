@@ -84,3 +84,16 @@ footer {
   padding: 15px;
   margin-top: 30px;
 }
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: #333;
+}
